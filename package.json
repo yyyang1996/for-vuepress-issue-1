@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.3.2",
+    "vuepress": "^2.0.0-beta.12"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
